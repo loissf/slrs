@@ -1,0 +1,6 @@
+[submodule "sl"]
+	path = sl
+	url = https://github.com/loissf/slrs-sl
+[submodule "slvm"]
+	path = slvm
+	url = https://github.com/loissf/slrs-slvm
